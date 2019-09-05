@@ -1,1 +1,1 @@
-This file will someday become a blog post.
+This file will someday become a blog post. We hope!
